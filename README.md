@@ -20,7 +20,7 @@ Hands-on experience with ELK, Splunk, Sysmon, Sigma rules, and SOC automation us
 
 ## 🧪 Hands-On Experience & Projects
 
-### 🔎 Automated IOC Analyzer
+### 🔎 [Automated IOC Analyzer](https://github.com/ddl192/Indicator-Of-Compromise-Analyzer)
 Python-based IOC analyzer integrating VirusTotal API to accelerate SOC triage and alert enrichment.
 - Automated IOC lookups and threat scoring (hashes, IPs, domains)
 - Integrated threat intelligence into SOC workflows
@@ -30,7 +30,7 @@ Python-based IOC analyzer integrating VirusTotal API to accelerate SOC triage an
 
 ---
 
-### ⚙️ Detection Engineering — Sigma Rules
+### ⚙️ Detection Engineering — [Sigma Rules](https://github.com/ddl192/Sigma-Windows-Detections)
 Hands-on experience developing Sigma rules mapped to MITRE ATT&CK.
 - Created detections for Windows Event Logs & Sysmon
 - Covered common attack paths and lateral movement techniques
@@ -111,5 +111,10 @@ Practical SOC workflows across ELK and Splunk environments.
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaroslav-tymchenko-a08b22377)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-white?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/Y4ri)
+
+[![My Site](https://img.shields.io/badge/My_Site-white?style=for-the-badge&labelColor=white)](https://ddl192.github.io/Portfolio/)
+
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:yariktymchenko2007@gmail.com)
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-white?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/Y4ri)
+
