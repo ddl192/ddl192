@@ -1,4 +1,4 @@
-# 👋 ICT Student | Entry-Level SOC Analyst (Blue Team)
+# ICT Student | Entry-Level SOC Analyst (Blue Team)
 
 Focused on SOC operations: log analysis, alert triage, threat detection, and SIEM engineering.  
 CompTIA Security+ certified, CySA+ in progress, TryHackMe Top 1%.  
@@ -61,39 +61,45 @@ Practical SOC workflows across ELK and Splunk environments.
 ---
 
 ## 📜 Credentials
-- ✅ **CompTIA Security+** — Certified  
-- 📚 **CompTIA CySA+** — In progress  
-- ⚡ **TryHackMe** — Top 1% (150+ rooms solved)  
-- 🛠️ **Home SOC Lab** — Sysmon, ELK, Sigma, continuous practice  
+-  **CompTIA Security+** — Certified  
+-  **CompTIA CySA+** — In progress  
+-  **TryHackMe** — Top 1% (150+ rooms solved)  
+-  **Home SOC Lab** — Sysmon, ELK, Sigma, continuous practice  
 
 ---
 
-## 🧰 Technology Stack
-![Splunk](https://img.shields.io/badge/Splunk-40a118?style=for-the-badge&logo=splunk&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-3fafee?style=for-the-badge&logo=wireshark&logoColor=white)
+##  Technology Stack
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-efbf1b?style=for-the-badge&logo=elasticstack&logoColor=black)
+![Splunk](https://img.shields.io/badge/Splunk-40a118?style=for-the-badge&logo=splunk&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-3685f7?style=for-the-badge&logo=wazuh&logoColor=white)
-![TCPDump](https://img.shields.io/badge/TCPDump-374151?style=for-the-badge)
+
 ![Snort](https://img.shields.io/badge/Snort-f7a9ab?style=for-the-badge&logo=snort&logoColor=black)
 ![Suricata](https://img.shields.io/badge/Suricata-f09a30?style=for-the-badge&logo=suricata&logoColor=black)
-![Sysmon](https://img.shields.io/badge/Sysmon-00adef?style=for-the-badge&logo=microsoft&logoColor=white)
+![TCPDump](https://img.shields.io/badge/TCPDump-374151?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-3fafee?style=for-the-badge&logo=wireshark&logoColor=white)
+
 ![KAPE](https://img.shields.io/badge/KAPE-0000ff?style=for-the-badge&logo=kaspersky&logoColor=white)
+![Sysmon](https://img.shields.io/badge/Sysmon-00adef?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Volatility](https://img.shields.io/badge/Volatility-d02f41?style=for-the-badge&logo=volatility&logoColor=white)
+
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-bd4127?style=for-the-badge&logo=mitre&logoColor=white)
 ![Sigma Rules](https://img.shields.io/badge/Sigma_Rules-24d2ff?style=for-the-badge&logo=sigma&logoColor=black)
 ![YARA](https://img.shields.io/badge/YARA-c5292c?style=for-the-badge&logo=yara&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-bd4127?style=for-the-badge&logo=mitre&logoColor=white)
-![VirusTotal](https://img.shields.io/badge/VirusTotal-3b62ff?style=for-the-badge&logo=virustotal&logoColor=white)
+
 ![MISP](https://img.shields.io/badge/MISP-2fa1db?style=for-the-badge&logo=misp&logoColor=white)
-![Shodan](https://img.shields.io/badge/Shodan-e76a73?style=for-the-badge&logo=shodan&logoColor=white)
-![URLhaus](https://img.shields.io/badge/URLhaus-black?style=for-the-badge&logo=abuseipdb&logoColor=white&labelColor=white)
 ![OpenCTI](https://img.shields.io/badge/OpenCTI-001e3c?style=for-the-badge&logo=opencti&logoColor=white)
-![STIX](https://img.shields.io/badge/STIX-black?style=for-the-badge) ![TAXII](https://img.shields.io/badge/TAXII-ffcc00?style=for-the-badge&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3672a2?style=for-the-badge&logo=python&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-e76a73?style=for-the-badge&logo=shodan&logoColor=white)
+![STIX](https://img.shields.io/badge/STIX-black?style=for-the-badge)
+![TAXII](https://img.shields.io/badge/TAXII-ffcc00?style=for-the-badge&logoColor=black)
+![URLhaus](https://img.shields.io/badge/URLhaus-black?style=for-the-badge&logo=abuseipdb&logoColor=white&labelColor=white)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-3b62ff?style=for-the-badge&logo=virustotal&logoColor=white)
+
 ![Bash](https://img.shields.io/badge/Bash-282f37?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black&labelColor=white)
+![Python](https://img.shields.io/badge/Python-3672a2?style=for-the-badge&logo=python&logoColor=white)
 ---
 
-## ✅ What I Can Do in a SOC
+##  What I Can Do in a SOC
 - Triage SIEM alerts and validate true/false positives  
 - Analyze Windows and network logs during incidents  
 - Enrich alerts with threat intelligence  
@@ -104,6 +110,6 @@ Practical SOC workflows across ELK and Splunk environments.
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/yaroslav-tymchenko-a08b22377)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-darkred?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/Y4ri)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaroslav-tymchenko-a08b22377)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-white?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/Y4ri)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:yariktymchenko2007@gmail.com)
