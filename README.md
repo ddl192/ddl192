@@ -1,16 +1,109 @@
-## Hi there 👋
+# 👋 ICT Student | Entry-Level SOC Analyst (Blue Team)
 
-<!--
-**ddl192/ddl192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Focused on SOC operations: log analysis, alert triage, threat detection, and SIEM engineering.  
+CompTIA Security+ certified, CySA+ in progress, TryHackMe Top 1%.  
+Hands-on experience with ELK, Splunk, Sysmon, Sigma rules, and SOC automation using Python.
 
-Here are some ideas to get you started:
+🎯 **Target role:** SOC Analyst (Tier 1 / Junior Blue Team)  
+📍 **EU work authorization**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛡️ Core SOC Focus
+- Log analysis & event correlation in SIEM platforms  
+- Alert triage, IOC enrichment, and threat validation  
+- Detection engineering (Sigma rules, Windows & Sysmon logs)  
+- Network traffic analysis (PCAP, Wireshark)  
+- Python automation for SOC workflows  
+
+---
+
+## 🧪 Hands-On Experience & Projects
+
+### 🔎 Automated IOC Analyzer
+Python-based IOC analyzer integrating VirusTotal API to accelerate SOC triage and alert enrichment.
+- Automated IOC lookups and threat scoring (hashes, IPs, domains)
+- Integrated threat intelligence into SOC workflows
+- Reduced manual IOC analysis time and improved alert prioritization
+
+**Tech:** Python, VirusTotal API, IOC analysis
+
+---
+
+### ⚙️ Detection Engineering — Sigma Rules
+Hands-on experience developing Sigma rules mapped to MITRE ATT&CK.
+- Created detections for Windows Event Logs & Sysmon
+- Covered common attack paths and lateral movement techniques
+- Focused on improving signal-to-noise ratio in SOC alerts
+
+**Tech:** Sigma, Sysmon, Windows Logs, MITRE ATT&CK
+
+---
+
+### 📊 SIEM Operations — ELK & Splunk
+Practical SOC workflows across ELK and Splunk environments.
+- Log ingestion, normalization, and correlation
+- Alert creation, tuning, and dashboarding
+- Event triage using IOC hits and behavioral indicators
+
+**Tech:** ELK Stack, Splunk, Winlogbeat, Wazuh
+
+---
+
+### 🌐 Network Monitoring & PCAP Analysis
+- Network traffic investigations to validate alerts
+- Detection of malicious traffic patterns
+- Deep packet inspection and protocol-level analysis
+
+**Tech:** Wireshark, tcpdump, PCAP analysis
+
+
+---
+
+## 📜 Credentials
+- ✅ **CompTIA Security+** — Certified  
+- 📚 **CompTIA CySA+** — In progress  
+- ⚡ **TryHackMe** — Top 1% (150+ rooms solved)  
+- 🛠️ **Home SOC Lab** — Sysmon, ELK, Sigma, continuous practice  
+
+---
+
+## 🧰 Technology Stack
+![Splunk](https://img.shields.io/badge/Splunk-40a118?style=for-the-badge&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-3fafee?style=for-the-badge&logo=wireshark&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-efbf1b?style=for-the-badge&logo=elasticstack&logoColor=black)
+![Wazuh](https://img.shields.io/badge/Wazuh-3685f7?style=for-the-badge&logo=wazuh&logoColor=white)
+![TCPDump](https://img.shields.io/badge/TCPDump-374151?style=for-the-badge)
+![Snort](https://img.shields.io/badge/Snort-f7a9ab?style=for-the-badge&logo=snort&logoColor=black)
+![Suricata](https://img.shields.io/badge/Suricata-f09a30?style=for-the-badge&logo=suricata&logoColor=black)
+![Sysmon](https://img.shields.io/badge/Sysmon-00adef?style=for-the-badge&logo=microsoft&logoColor=white)
+![KAPE](https://img.shields.io/badge/KAPE-0000ff?style=for-the-badge&logo=kaspersky&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-d02f41?style=for-the-badge&logo=volatility&logoColor=white)
+![Sigma Rules](https://img.shields.io/badge/Sigma_Rules-24d2ff?style=for-the-badge&logo=sigma&logoColor=black)
+![YARA](https://img.shields.io/badge/YARA-c5292c?style=for-the-badge&logo=yara&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-bd4127?style=for-the-badge&logo=mitre&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-3b62ff?style=for-the-badge&logo=virustotal&logoColor=white)
+![MISP](https://img.shields.io/badge/MISP-2fa1db?style=for-the-badge&logo=misp&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-e76a73?style=for-the-badge&logo=shodan&logoColor=white)
+![URLhaus](https://img.shields.io/badge/URLhaus-black?style=for-the-badge&logo=abuseipdb&logoColor=white&labelColor=white)
+![OpenCTI](https://img.shields.io/badge/OpenCTI-001e3c?style=for-the-badge&logo=opencti&logoColor=white)
+![STIX](https://img.shields.io/badge/STIX-black?style=for-the-badge) ![TAXII](https://img.shields.io/badge/TAXII-ffcc00?style=for-the-badge&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3672a2?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-282f37?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=black&labelColor=white)
+---
+
+## ✅ What I Can Do in a SOC
+- Triage SIEM alerts and validate true/false positives  
+- Analyze Windows and network logs during incidents  
+- Enrich alerts with threat intelligence  
+- Write and tune basic detection rules  
+- Automate repetitive SOC tasks with Python  
+
+---
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/yaroslav-tymchenko-a08b22377)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-darkred?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/Y4ri)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:yariktymchenko2007@gmail.com)
