@@ -78,7 +78,7 @@ Practical SOC workflows across ELK and Splunk environments.
 ![TCPDump](https://img.shields.io/badge/TCPDump-374151?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-3fafee?style=for-the-badge&logo=wireshark&logoColor=white)
 
-![KAPE](https://img.shields.io/badge/KAPE-0000ff?style=for-the-badge&logo=kaspersky&logoColor=white)
+![KAPE](https://img.shields.io/badge/KAPE-0000ff?style=for-the-badge&logoColor=white)
 ![Sysmon](https://img.shields.io/badge/Sysmon-00adef?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Volatility](https://img.shields.io/badge/Volatility-d02f41?style=for-the-badge&logo=volatility&logoColor=white)
 
