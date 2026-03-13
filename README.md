@@ -30,16 +30,6 @@ Python-based IOC analyzer integrating VirusTotal API to accelerate SOC triage an
 
 ---
 
-### ⚙️ Detection Engineering — [Sigma Rules](https://github.com/ddl192/Sigma-Windows-Detections)
-Hands-on experience developing Sigma rules mapped to MITRE ATT&CK.
-- Created detections for Windows Event Logs & Sysmon
-- Covered common attack paths and lateral movement techniques
-- Focused on improving signal-to-noise ratio in SOC alerts
-
-**Tech:** Sigma, Sysmon, Windows Logs, MITRE ATT&CK
-
----
-
 ### 📊 SIEM Operations — ELK & Splunk
 Practical SOC workflows across ELK and Splunk environments.
 - Log ingestion, normalization, and correlation
